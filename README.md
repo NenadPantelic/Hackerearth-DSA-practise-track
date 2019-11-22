@@ -1,2 +1,2 @@
-# Hackereath-DSA-practise-track
+# Hackerearth-DSA-practise-track
 Solutions of the Data Structures and Algorithms practise problems
